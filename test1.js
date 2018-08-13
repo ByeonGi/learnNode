@@ -1,3 +1,4 @@
+
 var http = require("http");
 //어플리케이션에 필요한 모듈을 불러올땐 require명령을 사용
 //다음 코드는 http모듈을 불러오고 반환되는 http 인스턴스를 http 변수에 저장
